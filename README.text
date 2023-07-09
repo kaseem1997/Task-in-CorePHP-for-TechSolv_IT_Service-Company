@@ -1,0 +1,4 @@
+Create a README file and include the instructions on how to set up the database and run the application. You can provide information about the database configuration, such as the database name, username, password, and the steps to import the SQL file and access the application in a web browser.
+Please note that you need to update the database credentials ($servername, $username, $password, $dbname) in the process_form.php file according to your database configuration.
+
+Once you have created the files and set up the database, you can access the contact form in a web browser by opening the contact_form.html file.
